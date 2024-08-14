@@ -1,0 +1,14 @@
+C:\Users\milda\source\repos\NactiData\NactiData\bin\Debug\net8.0\NactiData.exe
+C:\Users\milda\source\repos\NactiData\NactiData\bin\Debug\net8.0\NactiData.deps.json
+C:\Users\milda\source\repos\NactiData\NactiData\bin\Debug\net8.0\NactiData.runtimeconfig.json
+C:\Users\milda\source\repos\NactiData\NactiData\bin\Debug\net8.0\NactiData.dll
+C:\Users\milda\source\repos\NactiData\NactiData\bin\Debug\net8.0\NactiData.pdb
+C:\Users\milda\source\repos\NactiData\NactiData\obj\Debug\net8.0\NactiData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\milda\source\repos\NactiData\NactiData\obj\Debug\net8.0\NactiData.AssemblyInfoInputs.cache
+C:\Users\milda\source\repos\NactiData\NactiData\obj\Debug\net8.0\NactiData.AssemblyInfo.cs
+C:\Users\milda\source\repos\NactiData\NactiData\obj\Debug\net8.0\NactiData.csproj.CoreCompileInputs.cache
+C:\Users\milda\source\repos\NactiData\NactiData\obj\Debug\net8.0\NactiData.dll
+C:\Users\milda\source\repos\NactiData\NactiData\obj\Debug\net8.0\refint\NactiData.dll
+C:\Users\milda\source\repos\NactiData\NactiData\obj\Debug\net8.0\NactiData.pdb
+C:\Users\milda\source\repos\NactiData\NactiData\obj\Debug\net8.0\NactiData.genruntimeconfig.cache
+C:\Users\milda\source\repos\NactiData\NactiData\obj\Debug\net8.0\ref\NactiData.dll
